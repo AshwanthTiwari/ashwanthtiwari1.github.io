@@ -7,13 +7,15 @@ author:
 tags: []
 summary:
 ---
-It is always best practice to use some key vault service when using ARM templates.
+You can use Azure keyvault service for securing your password when deploying resources to Azure.
 
-In our example, I am using Azure key vault service
+In the below example, I am using Azure key vault service while deploying VM to Azure using ARM template and parameter file.
+
+If you do not have an ARM template, you can obtain one at Azure quickstart https://github.com/Azure/azure-quickstart-templates
+
+Adjust the template to your needs. Once you have the template and parameter file you can use the below steps.
 
 Steps -
-
-* Assuming you have the azuredeploy or any other name template file and parameter file. If you do not have one use the Azure quickstart template as a reference.
 
 * Login to Azure portal, search for Key vault and create a new one
 
