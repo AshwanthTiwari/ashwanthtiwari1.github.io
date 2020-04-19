@@ -19,7 +19,7 @@ Steps -
 
 * Login to Azure portal, search for Key vault and create a new one
 
-![an image alt text]({{ https://github.com/AshwanthTiwari/tiwarilabs.github.io }}/images/azure-keyvault1.png "an image title")
+![an image alt text]({{ https://github.com/AshwanthTiwari/tiwariap.github.io }}/images/azure-keyvault1.png "an image title")
 
 or using
 PowerShell
@@ -28,7 +28,7 @@ PowerShell
 
 * Once key vault is ready, create a new secret.
 
-![an image alt text]({{ https://github.com/AshwanthTiwari/tiwarilabs.github.io }}/images/azure-keyvault2.png "an image title")
+![an image alt text]({{ https://github.com/AshwanthTiwari/tiwariap.github.io }}/images/azure-keyvault2.png "an image title")
 or using Powershell
 
 ```azurepowershell
@@ -41,11 +41,11 @@ $secret = Set-AzKeyVaultSecret -VaultName 'MykeyVault' -Name 'ExamplePassword' -
 
 * Click Properties under key vault to obtain the Resource ID
 
-![an image alt text]({{ https://github.com/AshwanthTiwari/tiwarilabs.github.io }}/images/azure-keyvault3.png "an image title")
+![an image alt text]({{ https://github.com/AshwanthTiwari/tiwariap.github.io }}/images/azure-keyvault3.png "an image title")
 
 * Now, you have the required the information. Open the ARM parameters JSON file using VSCode or any other editor.
 
-![an image alt text]({{ https://github.com/AshwanthTiwari/tiwarilabs.github.io }}/images/azure-keyvault4.png "an image title")
+![an image alt text]({{ https://github.com/AshwanthTiwari/tiwariap.github.io }}/images/azure-keyvault4.png "an image title")
 
 
 ```json
@@ -62,7 +62,7 @@ $secret = Set-AzKeyVaultSecret -VaultName 'MykeyVault' -Name 'ExamplePassword' -
 
 This can be found under key vaults-->Access Policies
 
-![an image alt text]({{ https://github.com/AshwanthTiwari/tiwarilabs.github.io }}/images/azure-keyvault5.png "an image title")
+![an image alt text]({{ https://github.com/AshwanthTiwari/tiwariap.github.io }}/images/azure-keyvault5.png "an image title")
 
 
 

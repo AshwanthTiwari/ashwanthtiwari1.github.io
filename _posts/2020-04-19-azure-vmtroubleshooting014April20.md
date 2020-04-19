@@ -16,7 +16,7 @@ Steps -
 
 Login to portal.azure.com and click on the virtual machine object. You should see something like below
 
-![an image alt text]({{ https://github.com/AshwanthTiwari/tiwarilabs.github.io }}/images/Azure_VM_troubleshooting1.png "an image title")
+![an image alt text]({{ https://github.com/AshwanthTiwari/tiwariap.github.io }}/images/Azure_VM_troubleshooting1.png "an image title")
 
 
 
