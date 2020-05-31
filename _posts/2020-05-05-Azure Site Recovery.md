@@ -28,4 +28,4 @@ Steps -
 
 3.There are some other requirements such as Cache storage account in source location, storage account in target location. You can either setup these beforehand or ASR will do it for you.
 
-4.
+*****WIP
