@@ -24,7 +24,7 @@ I am big fan of vendor certifications and have done few in my career. To list a 
 • Microsoft Certified Technology Specialist (SCOM) \
 • Completed ITIL Version 3 Foundation Exam \
 • Commvault Certified Professional and Specialist – Virtual \
-• Blue Prism Accredited Technical Architect \
+• Blue Prism Accredited Technical Architect
 • Blue Prism Accredited Installation Engineer
 
 
